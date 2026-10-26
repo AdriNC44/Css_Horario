@@ -1,0 +1,54 @@
+table {
+    width: 100%;
+    border: black solid 1px;
+    border-collapse: collapse;
+
+    tr {
+        border-collapse: collapse;
+        border: black solid 1px;
+
+        th {
+            font-size: 55px;
+            font-weight: bolder;
+            border: black solid 1px;
+            border-collapse: collapse;
+        }
+
+        td {
+            font-size: 24px;
+            height: 75px;
+            text-align: center;
+            border-collapse: collapse;
+            border: black solid 1px;
+
+        }
+    }
+}
+
+.recreo {
+    background-color: rgb(236, 227, 210);
+}
+.sis{
+    background-color: lightblue;
+}
+.base{
+    background-color: coral;
+}
+.ip{
+    background-color: lightseagreen;
+}
+.lemar{
+    background-color: rgb(250, 209, 132);
+}
+.in{
+    background-color: green;
+}
+.prog{
+    background-color: orange;
+}
+.cont{
+    background-color: pink;
+}
+.sus{
+    background-color: yellow;
+}
